@@ -1,0 +1,22 @@
+{
+	"name": "minifranske/cravatar",
+	"type": "typo3-cms-extension",
+	"description": "AvatarProvider for Cravatar support in TYPO3 backend",
+	"license": "GPL-2.0-or-later",
+	"require": {
+		"typo3/cms-core": "^10 || ^11"
+	},
+	"replace": {
+		"typo3-ter/cravatar": "self.version"
+	},
+	"autoload": {
+		"psr-4": {
+			"MiniFranske\\Cravatar\\": "Classes/"
+		}
+	},
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "cravatar"
+		}
+	}
+}
