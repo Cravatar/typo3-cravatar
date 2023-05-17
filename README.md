@@ -1,7 +1,7 @@
 # typo3-cravatar
 Integrate Cravatar for TYPO3
 
-# 此插件未做测试，
+### 此插件未做测试，
 
 不清楚 TYPO3 在国内的用户使用情况，如果您已经在使用 TYPO3 程序请先在测试环境中试用此插件，避免出现意外情况；
 
